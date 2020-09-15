@@ -17,7 +17,5 @@ public class Main {
         if(a+b>c&&a+c>b&&b+c>a){
             System.out.println("Chu vi la:" + chuvi);
         }else { System.out.println("Nhap lai");}
-
     }
-
 }
